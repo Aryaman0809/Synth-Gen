@@ -25,7 +25,8 @@ Our approach applies coalescent theory, an evolutionary biology concept, to the 
 ## Installation
 ```sh
 # Clone the repository
-git clone https://github.com/Aryaman0809/Synth-Gen.git```
+git clone https://github.com/Aryaman0809/Synth-Gen.git
+```
 
 # Navigate to the project directory
 cd Synth-Gen
