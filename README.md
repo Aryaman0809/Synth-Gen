@@ -25,10 +25,10 @@ Our approach applies coalescent theory, an evolutionary biology concept, to the 
 ## Installation
 ```bash
 # Clone the repository
-git clone [URL]
+git clone [[URL]](https://github.com/Aryaman0809/Synth-Gen.git)
 
 # Navigate to the project directory
-cd [Project-Name]
+cd Synth-gen
 
 # Install dependencies
 pip install -r requirements.txt
