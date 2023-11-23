@@ -23,13 +23,16 @@ Our approach applies coalescent theory, an evolutionary biology concept, to the 
 - **Resource Enrichment for Financial Analysis:** Offering datasets that closely resemble authentic financial data, thus significantly enhancing analytical resources.
 
 ## Installation
-```bash
+
 # Clone the repository
-git clone (https://github.com/Aryaman0809/Synth-Gen.git)
+```bash
+git clone https://github.com/Aryaman0809/Synth-Gen.git```
 
 # Navigate to the project directory
-cd Synth-Gen
+```bash
+cd Synth-Gen```
 
 # Install dependencies
-pip install -r requirements.txt
+```bash
+pip install -r requirements.txt ```
 
